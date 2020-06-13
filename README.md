@@ -6,12 +6,12 @@ of time.
 
 
 # Installation
-chmod u+x compile.sh
-./compile.sh
+    chmod u+x compile.sh
+    ./compile.sh
 
-#Usage
-./task_planner h  - to show how instructions on how to use the program
-./task_planner <hours> <minutes> <no_tasks>
+# Usage
+    ./task_planner h  - to show how instructions on how to use the program
+    ./task_planner <hours> <minutes> <no_tasks>
 
 
 will then output the average time to spend on each task.
