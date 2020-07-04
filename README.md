@@ -16,3 +16,7 @@ of time.
 
 will then output the average time to spend on each task.
 
+
+# improvements
+
+1. Allow tasks to have more "weight" than overs, so tasks with a greater weight will have more time to spend, than a task which has a lesser weight. Thus you can prioritise tasks and be able to spend more time on task with higher priority.
